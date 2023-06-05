@@ -1,0 +1,71 @@
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\createrectanglesbyexcel.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\createrectanglesbyexcel.pdb
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csproj.AssemblyReference.cache
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csproj.CoreCompileInputs.cache
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.pdb
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\AcCoreMgd.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\AcDbMgd.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\AcMgd.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\AdWindows.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\EPPlus.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.forms.Form1.resources
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csproj.GenerateResource.cache
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csproj.CopyComplete
+Z:\数字化课题\计算软件出图\2021 09 26 模板图出图功能脚本\createrectanglesbyexcel\bin\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 09 26 模板图出图功能脚本\createrectanglesbyexcel\bin\Debug\createrectanglesbyexcel.pdb
+Z:\数字化课题\计算软件出图\2021 09 26 模板图出图功能脚本\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csprojResolveAssemblyReference.cache
+Z:\数字化课题\计算软件出图\2021 09 26 模板图出图功能脚本\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.forms.Form1.resources
+Z:\数字化课题\计算软件出图\2021 09 26 模板图出图功能脚本\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csproj.GenerateResource.Cache
+Z:\数字化课题\计算软件出图\2021 09 26 模板图出图功能脚本\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 09 26 模板图出图功能脚本\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.pdb
+F:\BIM模型\createrectanglesbyexcel\bin\Debug\createrectanglesbyexcel.dll
+F:\BIM模型\createrectanglesbyexcel\bin\Debug\createrectanglesbyexcel.pdb
+F:\BIM模型\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.forms.Form1.resources
+F:\BIM模型\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csproj.GenerateResource.Cache
+F:\BIM模型\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.dll
+F:\BIM模型\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.pdb
+F:\BIM模型\createrectanglesbyexcel\bin\Debug\System.Data.SQLite.dll
+F:\BIM模型\createrectanglesbyexcel\bin\Debug\System.Data.SQLite.xml
+F:\BIM模型\createrectanglesbyexcel测试\bin\Debug\createrectanglesbyexcel.dll
+F:\BIM模型\createrectanglesbyexcel测试\bin\Debug\createrectanglesbyexcel.pdb
+F:\BIM模型\createrectanglesbyexcel测试\bin\Debug\System.Data.SQLite.dll
+F:\BIM模型\createrectanglesbyexcel测试\bin\Debug\System.Data.SQLite.xml
+F:\BIM模型\createrectanglesbyexcel测试\obj\Debug\createrectanglesbyexcel.forms.Form1.resources
+F:\BIM模型\createrectanglesbyexcel测试\obj\Debug\createrectanglesbyexcel.csproj.GenerateResource.Cache
+F:\BIM模型\createrectanglesbyexcel测试\obj\Debug\createrectanglesbyexcel.dll
+F:\BIM模型\createrectanglesbyexcel测试\obj\Debug\createrectanglesbyexcel.pdb
+F:\BIM模型\createrectanglesbyexcel测试\obj\Debug\createrectanglesbyexcel.csprojResolveAssemblyReference.cache
+C:\Users\ZJLZ1162\Desktop\createrectanglesbyexcel20211009\bin\Debug\createrectanglesbyexcel.dll
+C:\Users\ZJLZ1162\Desktop\createrectanglesbyexcel20211009\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZJLZ1162\Desktop\createrectanglesbyexcel20211009\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZJLZ1162\Desktop\createrectanglesbyexcel20211009\obj\Debug\createrectanglesbyexcel.forms.Form1.resources
+C:\Users\ZJLZ1162\Desktop\createrectanglesbyexcel20211009\obj\Debug\createrectanglesbyexcel.csproj.GenerateResource.Cache
+C:\Users\ZJLZ1162\Desktop\createrectanglesbyexcel20211009\obj\Debug\createrectanglesbyexcel.dll
+C:\Users\ZJLZ1162\Desktop\createrectanglesbyexcel20211009\obj\Debug\createrectanglesbyexcel.pdb
+C:\Users\ZJLZ1162\Desktop\createrectanglesbyexcel20211009\bin\Debug\createrectanglesbyexcel.pdb
+Z:\数字化课题\计算软件出图\2021 10 09 SQLite出图\createrectanglesbySQLite20211009\bin\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 10 09 SQLite出图\createrectanglesbySQLite20211009\bin\Debug\createrectanglesbyexcel.pdb
+Z:\数字化课题\计算软件出图\2021 10 09 SQLite出图\createrectanglesbySQLite20211009\bin\Debug\System.Data.SQLite.dll
+Z:\数字化课题\计算软件出图\2021 10 09 SQLite出图\createrectanglesbySQLite20211009\bin\Debug\System.Data.SQLite.xml
+Z:\数字化课题\计算软件出图\2021 10 09 SQLite出图\createrectanglesbySQLite20211009\obj\Debug\createrectanglesbyexcel.csprojResolveAssemblyReference.cache
+Z:\数字化课题\计算软件出图\2021 10 09 SQLite出图\createrectanglesbySQLite20211009\obj\Debug\createrectanglesbyexcel.forms.Form1.resources
+Z:\数字化课题\计算软件出图\2021 10 09 SQLite出图\createrectanglesbySQLite20211009\obj\Debug\createrectanglesbyexcel.csproj.GenerateResource.Cache
+Z:\数字化课题\计算软件出图\2021 10 09 SQLite出图\createrectanglesbySQLite20211009\obj\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 10 09 SQLite出图\createrectanglesbySQLite20211009\obj\Debug\createrectanglesbyexcel.pdb
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211009\bin\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211009\bin\Debug\createrectanglesbyexcel.pdb
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211009\bin\Debug\System.Data.SQLite.dll
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211009\bin\Debug\System.Data.SQLite.xml
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211009\obj\Debug\createrectanglesbyexcel.forms.Form1.resources
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211009\obj\Debug\createrectanglesbyexcel.csproj.GenerateResource.Cache
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211009\obj\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211009\obj\Debug\createrectanglesbyexcel.pdb
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211014\bin\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211014\bin\Debug\createrectanglesbyexcel.pdb
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211014\bin\Debug\System.Data.SQLite.dll
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211014\bin\Debug\System.Data.SQLite.xml
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211014\obj\Debug\createrectanglesbyexcel.forms.Form1.resources
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211014\obj\Debug\createrectanglesbyexcel.csproj.GenerateResource.Cache
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211014\obj\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 10 14 SQLite CBG出图\createrectanglesbySQLite20211014\obj\Debug\createrectanglesbyexcel.pdb

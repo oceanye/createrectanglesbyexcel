@@ -1,0 +1,29 @@
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\createrectanglesbyexcel.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\createrectanglesbyexcel.pdb
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.pdb
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\System.Data.SQLite.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csprojAssemblyReference.cache
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csproj.CoreCompileInputs.cache
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\obj\Debug\createrectanglesbyexcel.csproj.CopyComplete
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\AcCoreMgd.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\AcDbMgd.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\AcMgd.dll
+G:\系统研发\CAD-2019\2016\2016prj\createrectanglesbyexcel\bin\Debug\AdWindows.dll
+Z:\数字化课题\计算软件出图\2021 10 25 结构出图开发成果(org)\createrectanglesbyexcel - 完整程序\bin\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 10 25 结构出图开发成果(org)\createrectanglesbyexcel - 完整程序\bin\Debug\createrectanglesbyexcel.pdb
+Z:\数字化课题\计算软件出图\2021 10 25 结构出图开发成果(org)\createrectanglesbyexcel - 完整程序\bin\Debug\System.Data.SQLite.dll
+Z:\数字化课题\计算软件出图\2021 10 25 结构出图开发成果(org)\createrectanglesbyexcel - 完整程序\obj\Debug\createrectanglesbyexcel.csprojResolveAssemblyReference.cache
+Z:\数字化课题\计算软件出图\2021 10 25 结构出图开发成果(org)\createrectanglesbyexcel - 完整程序\obj\Debug\createrectanglesbyexcel.dll
+Z:\数字化课题\计算软件出图\2021 10 25 结构出图开发成果(org)\createrectanglesbyexcel - 完整程序\obj\Debug\createrectanglesbyexcel.pdb
+F:\createrectanglesbyexcel - 完整程序\bin\Debug\createrectanglesbyexcel.dll
+F:\createrectanglesbyexcel - 完整程序\bin\Debug\createrectanglesbyexcel.pdb
+F:\createrectanglesbyexcel - 完整程序\bin\Debug\System.Data.SQLite.dll
+F:\createrectanglesbyexcel - 完整程序\obj\Debug\createrectanglesbyexcel.dll
+F:\createrectanglesbyexcel - 完整程序\obj\Debug\createrectanglesbyexcel.pdb
+F:\createrectanglesbyexcel - 完整程序改\bin\Debug\createrectanglesbyexcel.dll
+F:\createrectanglesbyexcel - 完整程序改\bin\Debug\createrectanglesbyexcel.pdb
+F:\createrectanglesbyexcel - 完整程序改\bin\Debug\System.Data.SQLite.dll
+F:\createrectanglesbyexcel - 完整程序改\obj\Debug\createrectanglesbyexcel.dll
+F:\createrectanglesbyexcel - 完整程序改\obj\Debug\createrectanglesbyexcel.pdb
+F:\createrectanglesbyexcel - 完整程序改\obj\Debug\createrectanglesbyexcel.csprojResolveAssemblyReference.cache

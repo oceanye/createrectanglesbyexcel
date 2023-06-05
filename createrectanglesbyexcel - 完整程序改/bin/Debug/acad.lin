@@ -1,0 +1,8 @@
+; Linetypes exported by LinOut.lsp from G:\系统研发\CAD-2019\cad2020\createrectanglesbyexcel\需求\线性文件.lin
+;
+; LINOUT by CAD Studio - www.cadstudio.cz
+;
+*ACAD_ISO02W100,ISO dash __ __ __ __ __ __ __ __ __ __ __ __ __
+A,12,-3
+*ACAD_ISO04W100,ISO long-dash dot ____ . ____ . ____ . ____ . _
+A,24,-3,0,-3
